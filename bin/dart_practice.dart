@@ -10,13 +10,11 @@ main(){
   // Integer is a full number
   // Double contain Double
 
-
 int firstNumber= 10; // camelcase
 int secondNumber= 20;
 int additionResult= firstNumber + secondNumber;
 
 print(additionResult);
-
 
   firstNumber=20;
   print(firstNumber);
@@ -24,7 +22,6 @@ print(additionResult);
   firstNumber=100;
   print(firstNumber);
 ;
-
 
   print ("Hello Dart I love you");
   print('Rafat');
@@ -38,7 +35,6 @@ double myFriendsCGpa = 3.92;
 
 double total = cGpa + myFriendsCGpa;
 print(total);
-
 
 
 // String
