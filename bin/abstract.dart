@@ -72,6 +72,7 @@ void main () {
 
 }
 
-// What is abstraction ?
+// What is abstraction ? // Object Oriented thought process- Recomendate book
+// Answer: Hiding the complexity is abstraction.
 
 
