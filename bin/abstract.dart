@@ -42,6 +42,7 @@ class PharmacyStudent extends Student {
 class lawStudent implements Student { // in case of implementation we have to
                                       // override all method of abstract Class
                                       // it is one kind of interface.
+                                      // implement take all type of behaviour hardly
   @override
   void joiningClass() {
 
